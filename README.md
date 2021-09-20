@@ -9,3 +9,6 @@ Nous allons faire une simple manipulation des éléments basiques pour faire une
 - description
 - social network
 - table of favorites movies
+  - Body
+   - Pick a nice background color, font, and line-height
+   
